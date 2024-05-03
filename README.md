@@ -12,7 +12,7 @@ KGNN-LS applies the technique of graph neural networks (GNNs) to proces knowledg
 The model is enhanced by adding a label smoothness regularizer for more powerful and adaptive learning.
 
 
-### Files in the folder
+### Files in the folder 
 
 - `data/`
   - `movie/`
